@@ -38,7 +38,7 @@ export default function Todo() {
   return (
     <Flex
       bgGradient="linear(to-r, gray.300, yellow.400, pink.200)"
-      justifyContent="center"
+      justifyContent="flex-start"
       alignItems="center"
       w="100%"
       h="100vh"
